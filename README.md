@@ -1,4 +1,5 @@
 # Power-BI
 Analysis of Key Factors Influencing Dermatology Clinic Selection: Survey Insights using Power BI.
+
 This report presents the findings from a survey conducted among patients of dermatology clinics. The primary objective of the survey was to gather insights into patient preferences, behaviors, and experiences when selecting and using dermatology services. The data collected offers a comprehensive understanding of the factors that influence patient decisions, including the types of services sought, the criteria for choosing a clinic, and the channels through which patients first learned about their current dermatology provider.
 By analyzing this information, we aim to provide dermatology clinics with actionable insights that can enhance patient satisfaction, improve service offerings, and strengthen patient-clinic relationships. The survey results also help identify key trends and preferences that can guide clinics in tailoring their services to meet patient expectations in an increasingly competitive healthcare landscape.
